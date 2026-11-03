@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "THIRUMBU (LeftSense): Consolidation-Gated Closed-Loop Therapy Dosing for Post-Stroke Hemispatial Neglect"
+authors:
+  - family-names: "Jegan"
+    given-names: "Saiyugan"
+    affiliation: "College of Engineering, Guindy, Anna University"
+  - family-names: "Nayak"
+    given-names: "Shreehan S"
+  - family-names: "Venkatesh"
+    given-names: "Suchita"
+year: 2026
+license: PolyForm-Noncommercial-1.0.0
+repository-code: "https://github.com/saiyugan/thirumbu-leftsense"

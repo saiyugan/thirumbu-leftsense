@@ -1,0 +1,4 @@
+# THIRUMBU requires NOTHING beyond the Python standard library.
+# tkinter ships with the python.org Windows installer.
+#
+# Verify with:   python -c "import tkinter; print('ok')"
